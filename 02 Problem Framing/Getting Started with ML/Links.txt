@@ -1,0 +1,9 @@
+
+The ML Mindset
+https://developers.google.com/machine-learning/problem-framing/big-questions?hl=en
+
+Identifying Good Problems for ML
+https://developers.google.com/machine-learning/problem-framing/good?hl=en
+
+Hard ML Problems
+https://developers.google.com/machine-learning/problem-framing/hard?hl=en
